@@ -3,11 +3,11 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "parcial_aprendizaje2026"
-version = "0.0.1"
-description = "preparacion del parcial para Aprendizaje Automatico 2026"
+name = "prediccion-demanda-turistica-tdf"
+version = "1.0.0"
+description = "Modelo predictivo de demanda turística mensual para Tierra del Fuego — viajeros, pernoctaciones y visitas al Parque Nacional — mediante Regresión Lineal Múltiple sobre datos IPIEC y ERA5 (2004–2025)."
 authors = [
-  { name = "DarioMartinez" },
+  { name = "Darío Martínez" },
 ]
 
 readme = "README.md"
